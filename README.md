@@ -10,17 +10,14 @@ West Bengal                        9091738171
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2021-2023 (expected)
+:   **MSc, Data Science**; Ramakrishna Mission Vivekananda Educational and Research Institute (Belur)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2017-2020
+:   **BSc, Mathematics**; Vidyasagar University (Medinipur)
 
-    *Minor: Awesomeology*
+    *Minor: Computer Science*
 
 Experience
 ----------
